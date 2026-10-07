@@ -1,0 +1,7 @@
+2026-10-06 | INFO | Build verification started
+2026-10-06 | WARNING | Live target websites could not be reached from the build environment due to DNS/network restrictions.
+2026-10-06 | INFO | Unit tests and syntax checks passed.
+2026-10-07 09:44:30,628 | INFO | Starting consolidated scraping pipeline
+2026-10-07 09:45:54,371 | INFO | Books scraper collected 1000 records from 50 pages
+2026-10-07 09:46:16,642 | INFO | Quotes scraper collected 100 records from 10 pages
+2026-10-07 09:46:16,769 | INFO | Completed: 1099 final records, 0 rejected, 1 duplicates, 106.139s
